@@ -1,0 +1,20 @@
+.vacation {
+    border: 1px solid #000;
+    border-radius: 4px;
+    background-color: lightgray;
+    text-align: center;
+    margin-bottom: 32px;
+    width: 400px;
+}
+
+.adminTitle {
+    background: fuchsia;
+    margin: 0;
+    padding: 8px;
+}
+
+.vacation .description {
+    text-align: left;
+    padding: 16px;
+    margin: 0;
+} 
