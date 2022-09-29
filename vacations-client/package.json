@@ -21,7 +21,7 @@
     "react-switch": "^5.0.0",
     "react-toggle-button": "^2.2.0",
     "reactstrap": "^8.0.1",
-    "recharts": "^1.7.1",
+    "recharts": "^2.1.14",
     "typescript": "3.5.1"
   },
   "scripts": {
